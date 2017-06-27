@@ -1,6 +1,9 @@
 ![Openpay-Android](http://www.openpay.mx/img/github/android.jpg)
-##Introduction
-###What is openpay-android?
+
+## Introduction
+
+### What is openpay-android?
+
 openpay-android is a Android library designed to facilitate the processing collect credit card information from a devices directly invoking our services without invoking the origin server.
 
 ###Benefits:
